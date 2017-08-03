@@ -9,12 +9,13 @@ Sidekiq, Memcached, Imagemagick, ElasticSearch, Bower and Monit.
 ## Installation
 
 ```
-gem 'mina-stack', github: 'div/mina-stack', group: :development
+gem 'mina-stack', github: 'joshmn/mina-stack', group: :development
 ```
 
 ```
 rails g mina:stack:install
 ```
+
 to create default deploy.rb and servers/production.rb files
 
 ## Configuration
