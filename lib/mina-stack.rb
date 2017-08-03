@@ -1,5 +1,5 @@
 require 'rake'
-require 'securerandom'
+require 'secure_random'
 require 'mina'
 require "mina-stack/version"
 require 'mina-stack/defaults'
