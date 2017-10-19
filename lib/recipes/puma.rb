@@ -1,4 +1,4 @@
-namespace :puma do
+namespace :zpuma do
 
   task(:install) {  }
 
